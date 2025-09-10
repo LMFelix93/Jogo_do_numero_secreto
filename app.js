@@ -6,7 +6,7 @@ let paragrafo = document.querySelector ('p');
 paragrafo.innerHTML = 'Qual o número secreto entre 1 e 10 ?';
 */
 
-// Início do código 
+// Inicio do código 
 
 let listaDeNumerosSorteados = [];
 let NumeroMinimo = 1;
